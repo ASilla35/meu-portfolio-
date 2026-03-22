@@ -15,7 +15,7 @@ export default function Contact() {
       <div className="space-y-4">
         <a href="mailto:1aimadu.silla@gmail.com" className="flex items-center justify-between border border-gray-200 rounded-lg px-6 py-4 hover:border-gray-400 transition-colors group">
           <span className="text-sm text-gray-500">Email</span>
-          <span className="text-sm text-gray-900 font-medium group-hover:underline underline-offset-4">joao@email.com →</span>
+          <span className="text-sm text-gray-900 font-medium group-hover:underline underline-offset-4">1aimadu.silla@gmail.com →</span>
         </a>
         <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="flex items-center justify-between border border-gray-200 rounded-lg px-6 py-4 hover:border-gray-400 transition-colors group">
           <span className="text-sm text-gray-500">GitHub</span>
